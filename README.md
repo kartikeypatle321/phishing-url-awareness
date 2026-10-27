@@ -71,4 +71,4 @@ This is an educational tool. It only reads URL text. It does not visit URLs, sca
 Use sample strings only. Do not collect credentials. Do not use this project to deceive anyone or to test websites without permission.
 
 ## Author
-Pranit Dhanade, BTech (CS/Cybersecurity), VIT Pune - EWB Courses
+Kartikey Patle, BTech (CS/Cybersecurity), VIT Pune - EWB Courses
