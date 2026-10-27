@@ -1,6 +1,6 @@
 # Test Results
 
-Python version used: 3.__ | Operating system: ________ | Date: ________
+Python version used: 3.14.3 | Operating system: windows | Date: 27-10-2026
 
 (Re-run all five on YOUR computer, then fill the three blanks above with your own details.)
 
