@@ -23,4 +23,4 @@ Python version used: 3.14.3 | Operating system: windows | Date: 27-10-2026
 
 ## Notes
 
-Write 2 or 3 lines in your own words: what you learned, and what surprised you.
+I learned that a phishing checker can only look for clues in the URL text, so it cannot say whether a link is really safe. The @ symbol test surprised me, because example.com@sample.invalid looks like example.com but the real hostname is sample.invalid. I also saw that https://secure-login.example.invalid showed no warning signs even though the name looks suspicious, and that http://[bad used to crash the program until I added try/except to handle it. All five tests passed, and I re-ran them after each improvement to make sure nothing broke.
